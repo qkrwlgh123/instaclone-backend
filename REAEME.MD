@@ -15,3 +15,8 @@ Instaclone Backend.
 - [x] See Following with Cursor Pagination
 - [x] Computed Fields
 - [x] Search Users
+
+## Photos
+
+- [ ] Upload Photo(Parse #)
+- [ ] Like / Unlike Photo
